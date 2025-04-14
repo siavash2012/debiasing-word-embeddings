@@ -5,7 +5,7 @@ This repository contains Jupyter notebooks for debiasing word embeddings based o
 
 ---
 
-## 📂 Notebooks and Resources
+## Notebooks and Resources
 
 - **`adv_debiasing_glove.ipynb`**  
   Trains an adversarial model for gender debiasing of GloVe 300-dimensional embeddings and evaluates its effectiveness.
@@ -30,14 +30,15 @@ This repository contains Jupyter notebooks for debiasing word embeddings based o
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 To run the notebooks:
 
 1. **Update file paths** in the notebooks to match your local environment.
-2. **Download the 300-dimensional word embeddings** (e.g., GloVe or Google News Word2Vec) from either:
-   - [Kaggle](https://www.kaggle.com/)
-   - [Hugging Face](https://huggingface.co/)
+2. **Download the 300-dimensional word embeddings** from the following sources:
+   - [GloVe (Wikipedia + Gigaword, 300d)](https://nlp.stanford.edu/projects/glove/)  
+   - [Google News Word2Vec (300d)](https://www.kaggle.com/datasets/adarshsng/googlenewsvectors)
+
 
 ---
 
